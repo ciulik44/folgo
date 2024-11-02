@@ -1,5 +1,5 @@
 # Folgo-app
-Folgo is a web-based application that allows user to follow subscriptions such like Netflix, Max and etc.
+Folgo is a web-based application that allows user to follow subscriptions such like Netflix, Max and etc that user has and pays every month.
 Application includes Golang as a backend and React as a frontend
 The critrias are: 
 - The user should be able to track the status of their subscriptions through a website or in the future by the app
